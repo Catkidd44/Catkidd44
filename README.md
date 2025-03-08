@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Christian Breton!  
 
-<!--
-**Catkidd44/Catkidd44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Problem Solver | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+🔍 I enjoy working with **fun datasets and databases**, turning raw data into actionable insights.  
+📊 Strong background in **data analysis, SQL, and Python**, with experience in **consulting and business intelligence**.  
+🎓 Bachelor's in **Information Systems** from **UNLV**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack & Skills  
+- **Languages:** Python, SQL (Learning Power BI)  
+- **Tools:** Pandas, NumPy, Matplotlib, Power BI  
+- **Specialties:** Data visualization, trend analysis, predictive modeling  
+
+### 📈 What I’m Working On  
+- Advancing my skills in **machine learning**  
+- Strengthening my **SQL knowledge**  
+- Learning **Power BI**  
+
+### 🎯 Ultimate Goal  
+To become a **well-rounded data analyst**, continuously improving my technical and analytical skills.  
+
+### 🚀 Open to Opportunities  
+I'm currently exploring **data analyst roles** and related opportunities where I can apply my skills and continue growing.  
+
+### 📬 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/christian-breton/) | [Email](christian.breton43@gmail.com)  
+
+🚀 Always open to **collaborations, projects, and interesting datasets!**
