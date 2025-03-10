@@ -1,4 +1,4 @@
-## **👋 Hi, I'm Christian Breton!** 
+## **👋 Hi, I'm Christian Breton** 
 
 I'm a **Data Analyst** with **1.5 years of experience**, turning raw data into insights that drive decisions. I have a **Bachelor’s in Information Systems** and a passion for working with **fun datasets and databases**.  
 
